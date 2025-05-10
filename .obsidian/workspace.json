@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1 Building Blocks/packageb/005 Creating Objects.md",
+                "file": "Chapter 2 Operators/002 Working with Binary Arithmetic Operators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "005 Creating Objects"
+              "title": "002 Working with Binary Arithmetic Operators"
             }
           }
         ]
@@ -167,29 +167,38 @@
   },
   "active": "7b4a56ce63ccaba7",
   "lastOpenFiles": [
-    "Chapter 1 Building Blocks/004 Understanding Package Declaration and Imports.md",
+    "Chapter 2 Operators/Operator.java~",
+    "Pasted image 20250222010435.png",
+    "Chapter 2 Operators/001 Understanding Java Operators.md",
+    "Chapter 2 Operators/002 Working with Binary Arithmetic Operators.md",
+    "Pasted image 20250222004858.png",
+    "Chapter 2 Operators/Operator.class",
+    "Chapter 2 Operators/Operator.java",
+    "out/production/OCP-17/Operator.class",
+    "Chapter 1 Building Blocks/Operator.java~",
+    "Pasted image 20250222001938.png",
+    "Pasted image 20250222001455.png",
+    "Chapter 1 Building Blocks/Operator.java",
+    "Chapter 2 Operators/main.java",
+    "Chapter 1 Building Blocks/main.java",
+    "Pasted image 20250222000623.png",
+    "Chapter 2 Operators/README.md",
+    "Chapter 1 Building Blocks/README.md",
     "Chapter 1 Building Blocks/packageb/005 Creating Objects.md",
+    "Chapter 1 Building Blocks/NumberPicker.java~",
+    "out/production/OCP-17/NumberPicker.class",
+    "out/production/OCP-17/packageb/005 Creating Objects.md",
+    "Chapter 1 Building Blocks/004 Understanding Package Declaration and Imports.md",
     "out/production/OCP-17/README.md",
     "out/production/OCP-17/004 Understanding Package Declaration and Imports.md",
     "out/production/OCP-17/003 Writing a main() Method.md",
     "out/production/OCP-17/002 Understanding the Class Structure.md",
     "out/production/OCP-17/001 Learning about the environment.md",
-    "out/production/OCP-17",
-    "out/production",
-    "out",
     "Pasted image 20250508154711.png",
     "Pasted image 20250508154105.png",
-    "Chapter 1 Building Blocks/classes/packageb/ClassB.class",
-    "Chapter 1 Building Blocks/classes/packageb",
-    "Chapter 1 Building Blocks/classes/packagea/ClassA.class",
-    "Chapter 1 Building Blocks/classes/packagea",
-    "Chapter 1 Building Blocks/classes",
-    "out/production/OCP-17/packageb/ClassB.class",
-    "out/production/OCP-17/packageb",
     "Pasted image 20250508153114.png",
     "Chapter 1 Building Blocks/003 Writing a main() Method.md",
     "Chapter 1 Building Blocks/002 Understanding the Class Structure.md",
-    "Chapter 1 Building Blocks/001 Learning about the environment.md",
-    "Chapter 1 Building Blocks/README.md"
+    "Chapter 1 Building Blocks/001 Learning about the environment.md"
   ]
 }
